@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="label_titulo">Calculadora IMC</string>
+    <string name="label_peso">Qual é o seu peso?</string>
+    <string name="hint_peso">Digite o seu peso aqui</string>
+    <string name="label_altura">Qual é a sua altura?</string>
+    <string name="hint_altura">Digite sua altura aqui</string>
+    <string name="botao_calcular">Calcular</string>
+    <string name="botao_limpar">Limpar</string>
+</resources>
